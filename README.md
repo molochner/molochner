@@ -1,13 +1,11 @@
 ### Hello there, I'm Michael! 👋
 
 - 🔭 I’m currently working on game development with Unity
-- 🌱 I’m currently learning everything xD
+- 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on with others
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ways to grow as a programmer
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love music and longboarding
 
 <img
   align="left"
