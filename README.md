@@ -1,6 +1,6 @@
 ### Hello there, I'm Michael! 👋
 
-- 🔭 I’m currently working on game development with Unity
+- 🔭 I’m currently working on game development with Unity and becoming more familiar with machine Learning
 - 🌱 I’m currently learning everything 😄
 - 👯 I’m looking to collaborate on with others
 - 🤔 I’m looking for help with ways to grow as a programmer
